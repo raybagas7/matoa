@@ -1,0 +1,447 @@
+{
+  "users": [
+    {
+      "fullname": "Ray Samudra Bagas Daniarsyah",
+      "email": "raymy.gas@gmail.com",
+      "password": "230899",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "fullname": "Agas",
+      "email": "agas@gmail.com",
+      "password": "230899",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "fullname": "Ayu",
+      "email": "ayu@gmail.com",
+      "password": "230899",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "fullname": "Tari",
+      "email": "tari@gmail.com",
+      "password": "230899",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "fullname": "Joshua",
+      "email": "jo@gmail.com",
+      "password": "230899",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "fullname": "Beauty",
+      "email": "beauty@gmail.com",
+      "password": "230899",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "fullname": "hansel",
+      "email": "hansel@gmail.com",
+      "password": "230899",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "fullname": "yogi",
+      "email": "yogi@gmail.com",
+      "password": "230899",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "fullname": "ken",
+      "email": "ken@gmail.com",
+      "password": "230899",
+      "role": "user",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "id": "k97hha",
+      "name": "Rolex",
+      "price": 200000000,
+      "discount": 10,
+      "weight": 1,
+      "length": 15,
+      "width": 6,
+      "category": "accessories",
+      "model": [
+        {
+          "id": "kvjj73pk",
+          "name": "Gold",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695895483/cd0sdcmmwwfz1tyhmvp3.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695895506/pibqtfth4is5zsumfbiq.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695895508/mgeuipaonf44sh1nik5d.jpg",
+          "qty": 1000,
+          "index": 0
+        },
+        {
+          "id": "l83kl6jr",
+          "name": "Yacht",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695895708/cspfpdwtinnitonb7c7o.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695895707/gexuxpnianjkiwvuqxq8.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695895710/iwanjol47weiat6g6ze3.jpg",
+          "qty": 1000,
+          "index": 2
+        }
+      ],
+      "material": "Emas dan Perak",
+      "caseDetail": "Bebas2",
+      "movement": "Sesukanya",
+      "dial": "Moshi moshi?",
+      "hand": "Tangan",
+      "importantNote": "Note"
+    },
+    {
+      "id": "rbu8kb",
+      "name": "Rolex Dweller",
+      "price": 1000000,
+      "discount": 10,
+      "weight": 1,
+      "length": 15,
+      "width": 5,
+      "category": "accessories",
+      "model": [
+        {
+          "id": "jjoblwu5",
+          "name": "Dweller",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896408/tzvnj3roik8kltrjrknw.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896408/mab4pepmuxwfcji6g22b.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896408/ialcgxbelau94gteitjd.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695998293/hwvurmsraljg2veaqgcs.jpg"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896410/xkt4ibylpyoo5ryhs0tp.jpg",
+          "qty": 1000,
+          "index": 0
+        }
+      ],
+      "material": "Tahu",
+      "caseDetail": "Kardus",
+      "movement": "Lelet",
+      "dial": "Ya halo",
+      "hand": "Huh?",
+      "importantNote": "Jangan dibuang, sayang\n"
+    },
+    {
+      "id": "3a5orh",
+      "name": "Mix Rolex",
+      "price": 25000600200,
+      "discount": 10,
+      "weight": 1,
+      "length": 17,
+      "width": 5,
+      "category": "accessories",
+      "model": [
+        {
+          "id": "fd2uvg0f",
+          "name": "Gold",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896725/vryzwmqv8kxnvvuvrzhp.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896725/kg5iwkxyacvr5clnhso9.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896726/hb4bymysq69h1jdxbji5.jpg",
+          "qty": 1000,
+          "index": 0
+        },
+        {
+          "id": "q5nnslvn",
+          "name": "Silver",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896725/rlvq8li89v1tebpra6g2.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896725/f87qbjviz5eqswbltrtx.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896726/pkzaoua2xjdtxxfo1e0r.jpg",
+          "qty": 500,
+          "index": 1
+        },
+        {
+          "id": "y66ybqpe",
+          "name": "Yacht",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896725/kmc8abdyj3oh10ui2j5f.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896726/flddqfdjshle5dzieace.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896726/dxzqveu3vysgb336uuat.jpg",
+          "qty": 352,
+          "index": 2
+        }
+      ],
+      "material": "Gold, Silver, Bangke Kapal",
+      "caseDetail": "Kulit tikus",
+      "movement": "Acak acakan coy",
+      "dial": "Telpon mamah",
+      "hand": "Buat makan",
+      "importantNote": "Janganlah kamu meninggalkan shalat"
+    },
+    {
+      "id": "11d9ob",
+      "name": "Rolex Explorer",
+      "price": 248751000,
+      "discount": 99,
+      "weight": 1,
+      "length": 30,
+      "width": 7,
+      "category": "accessories",
+      "model": [
+        {
+          "id": "bd5lfvp9",
+          "name": "Dora The Explorer",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896921/ufnwcakd3gtyezdc6dws.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896921/l04v5bm1svj3qqsxqfgf.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896920/rdzrjapvlnpvfsdxntri.jpg",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896920/mvzxkh2hq5c1kv2yewkm.jpg",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896921/oxqckwqhqul8daqmuf4m.jpg",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695995281/nhs4jqhbixgqscqntvkv.jpg"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695896923/gl4bq7yofxojgyxvd4ye.jpg",
+          "qty": 999999,
+          "index": 0
+        },
+        {
+          "id": "tc8x39d0",
+          "name": "Gold",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999609/mfh40immsptjrowv4n62.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999606/syhuzz3gtjaxzxcdavjt.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999606/vtx0f3l6bxtbjxypo0cl.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999607/b0vxw5ydj4dlhraj7hjs.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999610/udsgpwxqycxda3ioda73.jpg",
+          "qty": 1000,
+          "index": 1
+        }
+      ],
+      "material": "Tulang belulang boots",
+      "caseDetail": "Daun Pisang",
+      "movement": "Gacor",
+      "dial": "Apa sih dial?",
+      "hand": "Iya tangan",
+      "importantNote": "Katakan peta"
+    },
+    {
+      "id": "63tp7o",
+      "name": "Mix Rolex",
+      "price": 12,
+      "discount": 12,
+      "weight": 12,
+      "length": 12,
+      "width": 12,
+      "category": "accessories",
+      "model": [
+        {
+          "id": "fd2u210f",
+          "name": "Gold",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695881918/ckd4ba1uy6zzynkdsg6d.jpg"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695881918/mjh7vwip6vvwmmgbedzr.jpg",
+          "qty": 12
+        },
+        {
+          "id": "fd196g0f",
+          "name": "Silver",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695881919/xc776yrfu2ked8au8pan.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695881922/oyg0kawfke2fekfd9w8g.png",
+          "qty": 120
+        }
+      ],
+      "material": "12",
+      "caseDetail": "12",
+      "movement": "12",
+      "dial": "12",
+      "hand": "12",
+      "importantNote": "12"
+    },
+    {
+      "id": "smzkkf",
+      "name": "Brand New Rolex",
+      "price": 20000000000,
+      "discount": 10,
+      "weight": 12,
+      "length": 12,
+      "width": 12,
+      "category": "accessories",
+      "model": [
+        {
+          "id": "fd2ula0f",
+          "name": "Gold",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695890005/mtso42v6adqlr7cmhuyc.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695890005/eq6ynrwi4fyfnmu4bxvf.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695890006/nhzuptiy9tvocschlnso.jpg",
+          "qty": 10
+        },
+        {
+          "id": "fd2loajf",
+          "name": "Silver",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695890005/ocbf6i204lha80dew21u.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695890005/xxmmpqdxgtzrovthhvq6.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695890006/g5xaa4er4g5bbooa7wyo.jpg",
+          "qty": 100
+        }
+      ],
+      "material": "Silver and Gold",
+      "caseDetail": "Glass",
+      "movement": "Clockwise",
+      "dial": "Hallo, help me, i'm under the water",
+      "hand": "Hand?",
+      "importantNote": "Moshi Moshi Ore Wa Monkey D Luffy Kaizoku Ni Naru O Toko Da"
+    },
+    {
+      "id": "f9sd8z",
+      "name": "Rolex Yacht3",
+      "price": 1000000,
+      "discount": 10,
+      "weight": 1,
+      "length": 12,
+      "width": 4,
+      "category": "accessories",
+      "model": [
+        {
+          "id": "fd2lp08f",
+          "name": "Yacht2",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695890453/x5a5mzsgdpkxyz1keyld.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695891238/lnmer6rzoppffsdqzeym.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695890454/w5obfqzwo0gylithhpbz.png",
+          "qty": 5000
+        }
+      ],
+      "material": "ship",
+      "caseDetail": "idk",
+      "movement": "idk",
+      "dial": "idk",
+      "hand": "idk",
+      "importantNote": "idk"
+    },
+    {
+      "id": "nwsbi8",
+      "name": "Rolex With Model Id",
+      "price": 1000000,
+      "discount": 2,
+      "weight": 12,
+      "length": 12,
+      "width": 12,
+      "category": "accessories",
+      "model": [
+        {
+          "id": "tnv3yh",
+          "name": "Gold",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695895123/laoykcrlzoi0b4vc1np2.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695895124/al7qyl4hmqedfe49sy1n.png",
+          "qty": 5,
+          "index": 0
+        },
+        {
+          "id": "1mfpn5",
+          "name": "Besi",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695895123/xey4osihhz59oepdufyg.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695895126/jwvrhnfnjd7jwebfzw2j.png",
+          "qty": 5,
+          "index": 1
+        }
+      ],
+      "material": "With Model Id",
+      "caseDetail": "With Model Id",
+      "movement": "With Model Id",
+      "dial": "With Model Id",
+      "hand": "With Model Id",
+      "importantNote": "With Model Id"
+    },
+    {
+      "id": "lf2aq3",
+      "name": "Rollon",
+      "price": 2000000,
+      "discount": 0,
+      "weight": 1,
+      "length": 12,
+      "width": 4,
+      "category": "accessories",
+      "model": [
+        {
+          "id": "sjck5pf2",
+          "name": "Gold",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999516/v8hrawcy9gruwmnwarbr.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999512/tnfk54gzrls4pb4p4pnl.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999512/naluzkt9pusvncgeuyck.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999518/n1dthvol2omgcjxwig7e.jpg",
+          "qty": 10000,
+          "index": 0
+        },
+        {
+          "id": "2y67xyb3",
+          "name": "GMT",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999513/cabub3w4aken0dmgbcm4.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999515/prwrakwlira9jzs6neyl.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999514/wqewvsnktwd1lsgeeizn.png"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999518/i6pwiconkrb0p9jfcgga.jpg",
+          "qty": 500,
+          "index": 1
+        },
+        {
+          "id": "akmafse3",
+          "name": "Explorer",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999515/nvsbyujknszbysfotjap.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999515/ebrs0f4uopbpwlbwgxno.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999516/i6daqo7rnaogk7sd26dc.jpg",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999516/y3kaetntlxc2htdyixhr.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999516/zig3jzwjkytmcloip5oi.jpg",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999516/ffjbwwyreexnu1g3ewjv.jpg"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999518/vbjphwwg69bamsvcxfzz.jpg",
+          "qty": 50,
+          "index": 2
+        },
+        {
+          "id": "i4s2qrxm",
+          "name": "Dweller",
+          "photos": [
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999518/cecuvnlka18ta3pk4b3c.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999518/skflt6dw2z47wgihamax.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999517/yexmsoa6sikqax1ryslq.png",
+            "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999517/k2ufe6lbtqslwhhovpnl.jpg"
+          ],
+          "picture": "http://res.cloudinary.com/dro3sbdac/image/upload/v1695999519/r4itg3luzg2cyycj5j9r.jpg",
+          "qty": 50,
+          "index": 3
+        }
+      ],
+      "material": "Mixed MIIIIX",
+      "caseDetail": "Mixed MIIIIX",
+      "movement": "Mixed MIIIIX",
+      "dial": "Mixed MIIIIX",
+      "hand": "Mixed MIIIIX",
+      "importantNote": "Mixed MIIIIX"
+    }
+  ]
+}

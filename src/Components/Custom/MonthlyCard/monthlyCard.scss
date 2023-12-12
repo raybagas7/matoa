@@ -1,0 +1,8 @@
+.month-card {
+  @apply w-[16rem];
+}
+
+.line-through__price {
+  text-decoration-color: red;
+  text-decoration: line-through;
+}

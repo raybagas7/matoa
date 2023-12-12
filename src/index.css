@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif&family=Poppins:ital,wght@0,400;0,500;0,600;1,300&family=Roboto:wght@300;400;500;700&family=Taviraj:wght@400;500&display=swap");
+
+@layer base {
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+body {
+  font-family: "Taviraj", serif;
+}
+
+input::file-selector-button {
+  display: none;
+}
+
+.aside-navigation li {
+  @apply cursor-pointer hover:text-primary;
+}
+
+.product-list__table tr th,
+td {
+  @apply border-[1px] px-[16px] py-[18px];
+}
+
+.navbar li {
+  @apply cursor-pointer list-none rounded-full px-3 py-2 transition hover:shadow-md hover:transition;
+}
+
+#model-small-pict {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+#model-small-pict::-webkit-scrollbar {
+  width: 5px; /* Adjust the width as needed */
+}
+
+#model-small-pict::-webkit-scrollbar-thumb {
+  background-color: transparent; /* Hide the scrollbar thumb */
+}
+
+#model-small-pict::-webkit-scrollbar-track {
+  background-color: transparent; /* Hide the scrollbar track */
+}

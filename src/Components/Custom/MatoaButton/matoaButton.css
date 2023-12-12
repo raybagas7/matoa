@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.matoa-button {
+  @apply px-5 py-2;
+}
+
+.matoa-button__primary {
+  @apply border-2 border-primary;
+}
+
+.matoa-button_hover {
+  @apply transition hover:bg-white/20 hover:text-primary hover:shadow;
+}/*# sourceMappingURL=matoaButton.css.map */
